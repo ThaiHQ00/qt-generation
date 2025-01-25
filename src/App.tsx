@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useRef } from "react"; // Add useRef
+import React, { useState, useRef } from "react"; // Add useRef
 import { APIProvider, Map, Marker } from "@vis.gl/react-google-maps";
 import usePlacesAutocomplete, {
   getGeocode,
